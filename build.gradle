@@ -1,6 +1,13 @@
 buildscript {
     ext.kotlin_version = "1.4.10"
-    repositories {
+fgggf
+56
+676878
+678758
+7
+878
+8
+7repositories {
         google()
         jcenter()
         mavenCentral()
